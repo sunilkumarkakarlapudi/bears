@@ -1,0 +1,23 @@
+{
+  "name": "bears-api",
+  "version": "1.0.0",
+  "description": "First API with Mean Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+      "express": "~4.0.0",
+      "mongoose": "~3.6.13",
+      "body-parser": "~1.0.1"
+  },
+  "keywords": [
+    "bears",
+    "node",
+    "mean",
+    "mongo",
+    "express"
+  ],
+  "author": "Sunil Kakarlapudi",
+  "license": "ISC"
+}
